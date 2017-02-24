@@ -35,7 +35,9 @@ To simplify the initial installation, there are some integration  packages alrea
 * `Hangfire.Autofac <https://www.nuget.org/packages/Hangfire.Autofac/>`_
 * `Hangfire.Ninject <https://www.nuget.org/packages/Hangfire.Ninject/>`_
 * `Hangfire.SimpleInjector <https://www.nuget.org/packages/Hangfire.SimpleInjector/>`_
+* `Hangfire.Unity <https://www.nuget.org/packages/Hangfire.Unity/>`_
 * `Hangfire.Windsor <https://www.nuget.org/packages/Hangfire.Windsor/>`_
+
 
 Some of these activators also provide an extension method for the ``GlobalConfiguration`` class:
 
